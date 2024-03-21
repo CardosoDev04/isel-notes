@@ -53,7 +53,7 @@ This variation demands that the transactions declares all the locks it will be u
 This is done by predeclaring a read-set and write-set, since the transaction declares a set of items it will read and a set of items it will write to.
 If any of the items the transaction wishes to lock cannot be locked at the time it declares it's read/write sets, for example if the data item that needs to be locked is already locked by another transaction, the first transaction in turn will simply not lock any of the items and wait until all items can be locked.
 
-This variation of the 2PL is Deadlock free yet impractical to use due to the need of predeclaring all locks and write/read sets.
+This variation of the 2PL is [[Deadlock]] free yet impractical to use due to the need of predeclaring all locks and write/read sets.
 
 
 ### Strict 2PL
@@ -62,7 +62,7 @@ This is the most popular 2PL variation and it guarantees strict schedules.
 
 This variation makes it so that the transaction that follows it doesn't release any of it's write-locks until it has been committed or aborted, hence no other transaction can read or write any of the data items that have been write-locked by it until it has finished it's execution and committed the results or aborted in the process.
 
-This variation of the 2PL is not Deadlock free.
+This variation of the 2PL is not [[Deadlock]] free.
 
 ### Rigorous
 

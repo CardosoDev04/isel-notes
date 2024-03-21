@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Systems/Exclusive Lock.md",
+                "file": "Information Systems/Timestamp Protocol.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Systems/Exclusive Lock.md",
+                "file": "Information Systems/Timestamp Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Systems/Exclusive Lock.md",
+                "file": "Information Systems/Timestamp Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Systems/Exclusive Lock.md"
+                "file": "Information Systems/Timestamp Protocol.md"
               }
             }
           }
@@ -223,22 +223,23 @@
   },
   "active": "d8f398688b3cb4ab",
   "lastOpenFiles": [
-    "Information Systems/Locks.md",
-    "Untitled.md",
+    "Information Systems/Deadlock.md",
     "Information Systems/2PL Protocol.md",
+    "Excalidraw/2PL Diagram.md",
+    "Information Systems/Exclusive Lock.md",
+    "Information Systems/Locks.md",
+    "Information Systems/Shared Lock.md",
+    "Information Systems/Serializability.md",
     "Information Systems/Timestamp Protocol.md",
+    "Untitled.md",
     "Information Systems/Multi-mode Lock.md",
     "test.md",
     "Information Systems/test.md",
     "Excalidraw/Drawing 2024-03-21 14.23.23.excalidraw.md",
-    "Excalidraw/2PL Diagram.md",
-    "Information Systems/Serializability.md",
     "Pasted image 20240321113131.png",
     "Excalidraw",
     "Information Systems/Binary Lock.md",
     "Multimode-lock.md",
-    "Information Systems/Exclusive Lock.md",
-    "Information Systems/Shared Lock.md",
     "Excalidraw/Drawing 2024-03-21 10.15.24.excalidraw.md",
     "Untitled",
     "Information Systems",

@@ -19,4 +19,4 @@ There are two kinds of locks we talked about in SI:
 
 The use of these doesn't directly guarantee [[Serializability]] and so there are other protocols involving the locking mechanisms discussed that ensure that a schedule is serializable such as the [[2PL Protocol]].
 
-Other concurrency control protocols include the [[Timestamp Protocol]] 
+Other concurrency control protocols include the [[Timestamp Protocol]].

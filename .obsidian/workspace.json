@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Systems/Multi-mode Lock.md",
+                "file": "Information Systems/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Systems/Multi-mode Lock.md",
+                "file": "Information Systems/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Systems/Multi-mode Lock.md",
+                "file": "Information Systems/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Systems/Multi-mode Lock.md"
+                "file": "Information Systems/test.md"
               }
             }
           }
@@ -211,6 +211,8 @@
   },
   "active": "c268197da21e0fb5",
   "lastOpenFiles": [
+    "Information Systems/Multi-mode Lock.md",
+    "Information Systems/test.md",
     "Information Systems/Locks.md",
     "Excalidraw/Drawing 2024-03-21 14.23.23.excalidraw.md",
     "Information Systems/2PL Protocol.md",
@@ -220,7 +222,6 @@
     "Excalidraw",
     "Information Systems/Binary Lock.md",
     "Multimode-lock.md",
-    "Information Systems/Multi-mode Lock.md",
     "Information Systems/Exclusive Lock.md",
     "Information Systems/Shared Lock.md",
     "Excalidraw/Drawing 2024-03-21 10.15.24.excalidraw.md",

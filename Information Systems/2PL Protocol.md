@@ -31,5 +31,39 @@ If the conversion of locks is allowed, the downgrading of a lock should be done 
 
 ![[Pasted image 20240321113131.png]]
 
-Figure 1. - [[2PL Diagram]]
+Figure 1. - Basic [[2PL Diagram]]
 
+
+
+# Types of 2PL Protocols
+
+
+There are actually 4 variations of the 2PL protocol, with these being:
+- Basic
+- Conservative
+- Strict
+- Rigorous
+
+The variation we've been discussing is the Basic 2PL Protocol. Let's discuss the other ones and see the differences between them.
+
+### Conservative 2PL
+
+This variation demands that the transactions declares all the locks it will be using for the different data items before the transaction begins. 
+
+This is done by predeclaring a read-set and write-set, since the transaction declares a set of items it will read and a set of items it will write to.
+If any of the items the transaction wishes to lock cannot be locked at the time it declares it's read/write sets, for example if the data item that needs to be locked is already locked by another transaction, the first transaction in turn will simply not lock any of the items and wait until all items can be locked.
+
+This variation of the 2PL is Deadlock free yet impractical to use due to the need of predeclaring all locks and write/read sets.
+
+
+### Strict 2PL
+
+This is the most popular 2PL variation and it guarantees strict schedules.
+
+This variation makes it so that the transaction that follows it doesn't release any of it's write-locks until it has been committed or aborted, hence no other transaction can read or write any of the data items that have been write-locked by it until it has finished it's execution and committed the results or aborted in the process.
+
+This variation of the 2PL is not Deadlock free.
+
+### Rigorous
+
+The rigorous 2PL is essentially the same as the Strict 2PL but it also does not release any of it's read-locks until after it's committed or aborted.

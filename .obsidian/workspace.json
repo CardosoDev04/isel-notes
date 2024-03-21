@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "4f935c6a6dbdb7d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a89a4c02e5b0b3be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3169d2d5eeec3d71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Systems/Locks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "966de239a73a4d03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Systems/Locks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cf8d77ba29f8103",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Systems/Shared Lock.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4f677d25caa00c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Systems/2PL Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30687e112b677618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Systems/2PL Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c268197da21e0fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Systems/Multi-mode Lock.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d27af487cba8d6ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c4132cdb5a9216f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "837897ebab05ea35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f1a878a49008e89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b5dcc20739b5cb5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e7315fd4ceb365c",
+    "type": "split",
+    "children": [
+      {
+        "id": "37115d0ad1962a7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c3a8a87e6a7947e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Information Systems/Multi-mode Lock.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68221688b4ebe8db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Information Systems/Multi-mode Lock.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eec0edbfd26b5a46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "08b2169f0b8194aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Information Systems/Multi-mode Lock.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "c268197da21e0fb5",
+  "lastOpenFiles": [
+    "Information Systems/Locks.md",
+    "Excalidraw/Drawing 2024-03-21 14.23.23.excalidraw.md",
+    "Information Systems/2PL Protocol.md",
+    "Excalidraw/2PL Diagram.md",
+    "Information Systems/Serializability.md",
+    "Pasted image 20240321113131.png",
+    "Excalidraw",
+    "Information Systems/Binary Lock.md",
+    "Multimode-lock.md",
+    "Information Systems/Multi-mode Lock.md",
+    "Information Systems/Exclusive Lock.md",
+    "Information Systems/Shared Lock.md",
+    "Excalidraw/Drawing 2024-03-21 10.15.24.excalidraw.md",
+    "Untitled",
+    "Information Systems",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}

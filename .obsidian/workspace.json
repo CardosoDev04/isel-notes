@@ -90,9 +90,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "884dd61d4ba6a8f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Systems/Serializability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41da5e8d1a8fa47b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Systems/Recoverability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d24434264cb4b5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Systems/Recoverability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccfc21bb978d0020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Systems/Exclusive Lock.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -158,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Systems/Timestamp Protocol.md",
+                "file": "Information Systems/Exclusive Lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Systems/Timestamp Protocol.md",
+                "file": "Information Systems/Exclusive Lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Systems/Timestamp Protocol.md"
+                "file": "Information Systems/Exclusive Lock.md"
               }
             }
           }
@@ -221,29 +269,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8f398688b3cb4ab",
+  "active": "ccfc21bb978d0020",
   "lastOpenFiles": [
+    "Information Systems/Cascading and Cascadeless Schedule.md",
     "Information Systems/Deadlock.md",
-    "Information Systems/2PL Protocol.md",
-    "Excalidraw/2PL Diagram.md",
+    "Information Systems/Isolation Level.md",
     "Information Systems/Exclusive Lock.md",
-    "Information Systems/Locks.md",
-    "Information Systems/Shared Lock.md",
+    "Information Systems/Dirty Read.md",
+    "Information Systems/Consistent State.md",
+    "Information Systems/Anomalies.md",
+    "Information Systems/Phantoms.md",
+    "Information Systems/Non-repeatable Read.md",
+    "Information Systems/Binary Lock.md",
+    "Information Systems/ACID.md",
+    "Information Systems/2PL Protocol.md",
+    "Information Systems/Strict Schedule.md",
     "Information Systems/Serializability.md",
+    "Information Systems/Shared Lock.md",
+    "Information Systems/Recoverability.md",
+    "Excalidraw/2PL Diagram.md",
+    "Pasted image 20240321113131.png",
     "Information Systems/Timestamp Protocol.md",
-    "Untitled.md",
+    "Information Systems/Locks.md",
     "Information Systems/Multi-mode Lock.md",
     "test.md",
     "Information Systems/test.md",
     "Excalidraw/Drawing 2024-03-21 14.23.23.excalidraw.md",
-    "Pasted image 20240321113131.png",
     "Excalidraw",
-    "Information Systems/Binary Lock.md",
     "Multimode-lock.md",
     "Excalidraw/Drawing 2024-03-21 10.15.24.excalidraw.md",
     "Untitled",
     "Information Systems",
-    "Welcome.md",
-    "create a link.md"
+    "Welcome.md"
   ]
 }

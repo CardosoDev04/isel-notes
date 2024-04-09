@@ -25,4 +25,4 @@ class BinaryLock(var state: Int) {
 
 Binary locks are the simplest locks available in DBMS but also the more restrictive as mentioned earlier since that , locks of this nature can only be in those two states, either completely locked of completely unlocked.
 
-On the contrary, there are other types of locks which allow for a less restrictive access of data items such as [[Shared Lock]] or [[Exclusive Lock]]
+On the contrary, there are other types of locks which allow for a less restrictive access of data items such as [[Multi-mode Lock]]

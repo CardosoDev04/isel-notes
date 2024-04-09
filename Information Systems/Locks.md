@@ -1,6 +1,6 @@
 
 
-In DBMS, on the matter of concurrency, locks are objects/variables associated with each data item used to synchronize access to said items.
+In a DBMS, pertaining to the matter of concurrency, locks are objects/variables associated with each data item used to synchronize access to said items.
 Each lock has information about the status of the data item it locks, in respect to the possible operations that can be performed on said item by other transactions trying to access it concurrently.
 
 They have two methods associated with them:

@@ -42,4 +42,4 @@ For example, if T1 has issued a read-lock or [[Shared Lock]] it's possible for i
 
 This conversion has rules though, if at the time T1 wishes to upgrade it's read-lock to a write-lock, T2 or any other transaction don't possess a read-lock as well, then T1 can upgrade it's lock. Otherwise, it must wait until the other transactions release their locks.
 
-On another note, T1 can always downgrade it's write-lock to a read-lock.
+On another note, T1 can always downgrade it's write-lock to a read-lock since no other wite-locks can be active if T1 has a write-lock on the data item.

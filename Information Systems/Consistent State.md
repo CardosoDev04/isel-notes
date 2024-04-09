@@ -1,0 +1,1 @@
+In the context of DBMS, a consistent state of a database refers to all data on said DB following all business rules and system restrictions. Making all data in that DB valid, consistent with restrictions and usable with the business rules imposed.

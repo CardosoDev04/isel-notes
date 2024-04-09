@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Systems/Serializability.md",
+                "file": "Information Systems/2PL Protocol.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,14 +133,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Systems/Exclusive Lock.md",
+                "file": "Information Systems/Isolation Level.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9a938abf2f3b1e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Systems/Isolation Level.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Systems/Exclusive Lock.md",
+                "file": "Information Systems/2PL Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Systems/Exclusive Lock.md",
+                "file": "Information Systems/2PL Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Systems/Exclusive Lock.md"
+                "file": "Information Systems/2PL Protocol.md"
               }
             }
           }
@@ -269,24 +281,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ccfc21bb978d0020",
+  "active": "884dd61d4ba6a8f0",
   "lastOpenFiles": [
+    "Information Systems/Anomalies.md",
+    "Information Systems/Serializable.md",
+    "Information Systems/Isolation Level.md",
+    "Information Systems/Serializability.md",
+    "Information Systems/Repeatable Read.md",
+    "Information Systems/Recoverability.md",
+    "Information Systems/Read-committed.md",
+    "Information Systems/Read-uncommitted.md",
+    "Information Systems/Exclusive Lock.md",
     "Information Systems/Cascading and Cascadeless Schedule.md",
     "Information Systems/Deadlock.md",
-    "Information Systems/Isolation Level.md",
-    "Information Systems/Exclusive Lock.md",
     "Information Systems/Dirty Read.md",
     "Information Systems/Consistent State.md",
-    "Information Systems/Anomalies.md",
     "Information Systems/Phantoms.md",
     "Information Systems/Non-repeatable Read.md",
     "Information Systems/Binary Lock.md",
     "Information Systems/ACID.md",
     "Information Systems/2PL Protocol.md",
     "Information Systems/Strict Schedule.md",
-    "Information Systems/Serializability.md",
     "Information Systems/Shared Lock.md",
-    "Information Systems/Recoverability.md",
     "Excalidraw/2PL Diagram.md",
     "Pasted image 20240321113131.png",
     "Information Systems/Timestamp Protocol.md",
@@ -294,12 +310,8 @@
     "Information Systems/Multi-mode Lock.md",
     "test.md",
     "Information Systems/test.md",
-    "Excalidraw/Drawing 2024-03-21 14.23.23.excalidraw.md",
     "Excalidraw",
-    "Multimode-lock.md",
-    "Excalidraw/Drawing 2024-03-21 10.15.24.excalidraw.md",
     "Untitled",
-    "Information Systems",
-    "Welcome.md"
+    "Information Systems"
   ]
 }

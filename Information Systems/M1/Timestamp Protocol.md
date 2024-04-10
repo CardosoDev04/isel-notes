@@ -34,7 +34,7 @@ Whenever T tries to perform a write_item(X) operation the following is checked:
 - If the mentioned conditions are not met, T will execute the write_item(X) and write_TS(X) will be set to TS(T)'s current value
 
 Whenever T tries to perform a read_item(X):
-- If write_TS(X) > TS(T) then abort and rollback
+	- If write_TS(X) > TS(T) then abort and rollback
 - Otherwise, if write_TS(X) <= TS(T), execute the read_item(X) and set the read_TS(X) to the larger number between it's current value or TS(T).
 
 

@@ -107,8 +107,24 @@
             "id": "2f96564122c3f782",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Information Systems/M4/JPA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b8e7d8286521644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Systems/M3/Indexes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -160,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -226,6 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Information Systems/M3/Indexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,6 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Information Systems/M3/Indexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +281,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Information Systems/M3/Indexes.md"
+              }
             }
           }
         ]
@@ -285,9 +305,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f96564122c3f782",
+  "active": "0b8e7d8286521644",
   "lastOpenFiles": [
+    "Information Systems/M4/Enterprise Design Patterns.md",
+    "Information Systems/M4/JPA.md",
+    "Information Systems/M4/Entity Management.md",
+    "Information Systems/M4/Class (DB Entity) Representation.md",
+    "Information Systems/M4/ORM.md",
+    "Information Systems/M4/Transactions.md",
+    "Information Systems/M4/Queries.md",
     "Information Systems/M3/Explain.md",
+    "Information Systems/M4",
+    "Information Systems/Untitled.md",
     "Information Systems/M3/Indexes.md",
     "Information Systems/M2/Variables.md",
     "Information Systems/M2/Loops.md",
@@ -306,16 +335,8 @@
     "Information Systems/M1/Isolation Level.md",
     "Information Systems/M1/Timestamp Protocol.md",
     "Information Systems/M1/Repeatable Read.md",
-    "Information Systems/M1/Shared Lock.md",
-    "Information Systems/M1/Multi-mode Lock.md",
     "Information Systems/M2",
     "Information Systems/M1",
-    "Information Systems/M1/Serializable.md",
-    "Information Systems/M1/Serializability.md",
-    "Information Systems/M1/Read-committed.md",
-    "Information Systems/M1/Exclusive Lock.md",
-    "Information Systems/M1/Deadlock.md",
-    "Information Systems/M1/Dirty Read.md",
     "Information Systems/M1/Pasted image 20240321113131.png",
     "Excalidraw",
     "Untitled",

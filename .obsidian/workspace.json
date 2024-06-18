@@ -107,12 +107,8 @@
             "id": "2f96564122c3f782",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Information Systems/M3/Explain.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -230,7 +226,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Systems/M3/Explain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +242,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Systems/M3/Explain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,9 +263,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Information Systems/M3/Explain.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -293,10 +285,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "837897ebab05ea35",
+  "active": "2f96564122c3f782",
   "lastOpenFiles": [
-    "Information Systems/M3/Indexes.md",
     "Information Systems/M3/Explain.md",
+    "Information Systems/M3/Indexes.md",
     "Information Systems/M2/Variables.md",
     "Information Systems/M2/Loops.md",
     "Information Systems/M2/Procedural SQL Modification.md",

@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Systems/M1/Cascading and Cascadeless Schedule.md",
+                "file": "Information Systems/M3/Explain.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Systems/M1/Cascading and Cascadeless Schedule.md",
+                "file": "Information Systems/M3/Explain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Systems/M1/Cascading and Cascadeless Schedule.md",
+                "file": "Information Systems/M3/Explain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Systems/M1/Cascading and Cascadeless Schedule.md"
+                "file": "Information Systems/M3/Explain.md"
               }
             }
           }
@@ -293,8 +293,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f96564122c3f782",
+  "active": "837897ebab05ea35",
   "lastOpenFiles": [
+    "Information Systems/M3/Indexes.md",
+    "Information Systems/M3/Explain.md",
+    "Information Systems/M2/Variables.md",
+    "Information Systems/M2/Loops.md",
+    "Information Systems/M2/Procedural SQL Modification.md",
+    "Information Systems/M2/Functions vs Stored Procedures.md",
+    "Information Systems/M2/Cursors.md",
+    "Information Systems/M2/Conditional Flow Control.md",
+    "Information Systems/M1/Cascading and Cascadeless Schedule.md",
+    "Information Systems/M3",
     "Information Systems/M1/Recoverability.md",
     "Information Systems/M1/Read-uncommitted.md",
     "Information Systems/M1/2PL Protocol.md",
@@ -302,12 +312,6 @@
     "Information Systems/M1/Consistent State.md",
     "Information Systems/M1/ACID.md",
     "Information Systems/M1/Isolation Level.md",
-    "Information Systems/M2/Functions.md",
-    "Information Systems/M2/Cursors.md",
-    "Information Systems/M2/Conditional Flow Control.md",
-    "Information Systems/M2/Variables.md",
-    "Information Systems/M2/Procedural SQL Modification.md",
-    "Information Systems/M2/Loops.md",
     "Information Systems/M1/Timestamp Protocol.md",
     "Information Systems/M1/Repeatable Read.md",
     "Information Systems/M1/Shared Lock.md",
@@ -318,11 +322,8 @@
     "Information Systems/M1/Serializability.md",
     "Information Systems/M1/Read-committed.md",
     "Information Systems/M1/Exclusive Lock.md",
-    "Information Systems/M1/Cascading and Cascadeless Schedule.md",
     "Information Systems/M1/Deadlock.md",
     "Information Systems/M1/Dirty Read.md",
-    "Information Systems/M1/Phantoms.md",
-    "Information Systems/M1/Non-repeatable Read.md",
     "Information Systems/M1/Pasted image 20240321113131.png",
     "Excalidraw",
     "Untitled",

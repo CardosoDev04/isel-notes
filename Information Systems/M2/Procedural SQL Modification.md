@@ -7,5 +7,5 @@ This is achieved through:
 - The declaration of [[Variables]],
 - The use of [[Conditional Flow Control]] mechanisms,
 - The use of [[Loops]],
-- The use of [[Functions]],
+- The use of [[Functions vs Stored Procedures]],
 - The use of [[Cursors]].

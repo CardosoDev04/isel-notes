@@ -9,3 +9,4 @@ This is achieved through:
 - The use of [[Loops]],
 - The use of [[Functions vs Stored Procedures]],
 - The use of [[Cursors]].
+- The use [[Triggers]]

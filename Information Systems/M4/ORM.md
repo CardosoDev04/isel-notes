@@ -1,0 +1,1 @@
+An ORM or Object Relational Mapper is a piece of technology or a library that allows for the mapping of Database System Entities onto domain classes (i.e. Java classes). It's widely used in software development as it's a perfect layer of abstraction between pure SQL and object oriented programming.
